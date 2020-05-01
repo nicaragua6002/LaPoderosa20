@@ -23,11 +23,12 @@ android:layout_width="match_parent"
 android:layout_height="wrap_content"
 android:id="@+id/scrollView1" >
 <TextView
-			android:text="Texto"
+			android:text="@string/txtmision"
 			android:textAppearance="?android:attr/textAppearanceMedium"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
 			android:id="@+id/textView2"
+			android:paddingRight="50dp"
 			android:layout_marginLeft="50dp"/>
 </ScrollView>
 

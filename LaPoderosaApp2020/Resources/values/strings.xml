@@ -10,8 +10,38 @@
   <string name="btn5">🔖 | &#10; Categorias</string>
   <string name="btn6">⭐ | &#10; Marcas</string>
   <string name="btn7">📖 | &#10; Recetas</string>
-  
-  <!---->
 
-  
+  <!--Contenido de cada seccion-->
+  <string name="txtinicio">
+    Bienvenida al público por parte del gerente general Michael Jora Morales.
+    &#10; Gracias a todos y cada uno de ustedes por estar aquí con nosotros hoy. Estamos muy contentos de poder dar la bienvenida a aquellos de ustedes que han estado con nosotros durante mucho tiempo, así como a aquellos que son nuevos en (grupo / comunidad / asociación, etc.)
+    &#10;Hoy se celebra nuestra reunión anual de grupo y estamos orgullosos de poder organizarla hoy aquí, en este maravilloso lugar, con todos ustedes.
+    &#10; Antes de comenzar, me gustaría expresar mi sincero agradecimiento a todos los que generosamente nos ayudaron a que este evento se uniera para convertirse en un éxito. (Incluye los nombres de las personas que deseas agradecer aquí) ¡No podríamos haberlo hecho sin ustedes!
+    &#10;En la reunión de hoy, me gustaría centrarme en todos nuestros nuevos voluntarios que se han unido a nosotros desde (fecha).
+
+    &#10;Todos ustedes han sido elegidos para formar parte de nuestra asociación debido a una pasión mutua por (la visión / misión de la empresa). Sus pasiones nos ayudan a todos a unirnos y la energía que creamos es lo que nos permite alcanzar nuestros objetivos tanto individuales como grupales. Te necesitamos tanto como nos necesitas y por eso estamos agradecidos de que te unas a nosotros aquí en (inserta el nombre de la empresa).
+    &#10; Durante los próximos meses, aprenderán sobre las diferentes iniciativas a través de nuestras actividades planificadas, seminarios y eventos especiales en los que podrán unirse y obtener experiencias prácticas. Espero que esto les ayude a crecer para ser más productivos e inteligentes.
+    &#10; Así que una cálida bienvenida a todos y cada uno de ustedes, si no tienen preguntas, sugerencias, aclaraciones o simplemente quieren decir «hola», pueden encontrarme en mi oficina.
+    &#10; Muchas gracias por escuchar y déjenos darles la bienvenida a (inserta el nombre del orador o invitado). ¡Gracias!
+
+  </string>
+
+  <string name="txthistoria">
+    Origen
+    &#10;LA PODEROSA inició sus actividades en 1993 por lo cual ya cuenta con más de 25 años de presencia y trayectoria en el mercado.
+
+    &#10; Desde el comienzo de nuestras actividades, nos especializamos en el suministro de productos y equipos  relacionados a la construcción y mantenimiento de oleoductos, gasoductos y acueductos.
+    &#10;Participamos en los principales proyectos de las obras mencionadas tanto en nuestro país como en países limítrofes.
+    &#10;Con el transcurso de los años hemos incorporado nuevas líneas de productos con el objetivo de proveer a nuestros clientes una solución integral a sus necesidades. Contamos con un excelente grupo humano el cual se capacita en forma permanente a fin de estar actualizado en los cambios e innovaciones tecnológicas que se presentan en nuestro ambito.
+    &#10;Nuestro objetivo principal es lograr una permanente mejora en nuestras actividades a fin de dar un servicio que asegure una entrega en tiempo y forma con su correspondiente asesoramiento, soporte técnico y su posterior servicio post-venta. La cumplimentación de las pautas mencionadas nos obligan a un estricto cumplimiento de nuestro manual de garantía de calidad y procedimientos a fin de lograr como meta final una satisfacción plena de nuestros clientes.
+    &#10; Es importante señalar además, que nuestros servicios están fortalecidos por contar con un stock permanente de los principales productos de nuestra comercialización.
+    &#10;Estamos orgullosos de informar que desde el pasado 19 de Diciembre del 2006, el sistema de gestion de calidad de LA PODEROSA ha sido certificado segun la norma IRAM-ISO 9001: 2000 y revalidado el mismo el pasado día 28 de Diciembre de 2009 según IRAM 9001:2008.
+
+  </string>
+
+  <string name="txtmision">
+    &#10; MISIÓN: Ofrecer a nuestros clientes  productos de calidad, a precios cómodos  que cumplan con sus necesidades y exigencias, abarcando sus gustos de acuerdo a su estilo de ver y vivir la vida.
+   &#10; VISIÓN: Ser una empresa  líder y reconocida en la venta de ropa MeAnJe, lograr también extendernos y crear  nuestras cadenas de almacenes,   proporcionando cada día más un servicio de excelencia a nuestros clientes y que al mismo tiempo nos permitan competir en el mercado nacional con los mejores precios del mercado.
+
+  </string>
 </resources>

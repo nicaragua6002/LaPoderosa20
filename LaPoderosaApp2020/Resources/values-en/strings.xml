@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">LaPoderosaApp2020</string>
+    <string name="action_settings">Settings</string>
+
+<!--Menu-->
+  <string name="btn1">🏠 | &#10; START</string>
+  <string name="btn2"> 📜 | &#10; History</string>
+  <string name="btn3">❤ | &#10; Mission &amp; Vision
+  </string>
+  <string name="btn4"> 📌 | &#10; Branch offices</string>
+  <string name="btn5">🔖 | &#10; Categories</string>
+  <string name="btn6">⭐ | &#10; Brands</string>
+  <string name="btn7">📖 | &#10; Recipes</string>
+
+  <!--Contenido de cada seccion-->
+  <string name="txtinicio">
+    Welcome to the public by General Manager Michael Jora Morales.
+    &#10; Thanks to each and every one of you for being here with us today. We are excited to welcome those of you who have been with us for a long time, as well as those who are new to (group / community / association, etc.)
+
+    &#10; Today our annual group meeting is held and we are proud to be able to organize it here today, in this wonderful place, with all of you.
+    &#10; Before we begin, I would like to express my sincere thanks to all who generously helped us bring this event together to become a success. (Include the names of the people you want to thank here) We couldnt have done it without you!
+    &#10; At todays meeting, I would like to focus on all of our new volunteers who have joined us since (date).
+
+    &#10; All of you have been chosen to join our association due to a mutual passion for (the vision  mission of the company). Their passions help us all come together, and the energy we create is what enables us to achieve both individual and group goals. We need you as much as you need us and for that we are grateful that you join us here at (insert company name).
+    &#10; Over the next few months, you will learn about different initiatives through our planned activities, seminars and special events where you can join in and get hands-on experiences. I hope this helps you grow to be more productive and smart.
+    &#10; So a warm welcome to each and every one of you, if you have no questions, suggestions, clarifications or just want to say hello, you can find me in my office.
+    &#10; Thank you very much for listening and let us welcome you (insert the name of the speaker or guest). Thank you!
+  </string>
+
+  <string name="txthistoria">
+    Origin
+    &#10; LA PODEROSA began its activities in 1993, for which it already has more than 25 years of presence and experience in the market.
+
+    &#10; Since the beginning of our activities, we specialize in supplying products and equipment related to the construction and maintenance of oil, gas and water pipelines.
+    &#10; We participate in the main projects of the mentioned works both in our country and in neighboring countries.
+    &#10; Over the years we have incorporated new product lines in order to provide our customers with a comprehensive solution to their needs. We have an excellent human group which is permanently trained in order to be updated on the technological changes and innovations that occur in our area.
+    &#10; Our main objective is to achieve a permanent improvement in our activities in order to provide a service that ensures timely and proper delivery with its corresponding advice, technical support and subsequent after-sales service. Compliance with the aforementioned guidelines requires us to strictly comply with our quality assurance manual and procedures in order to achieve full satisfaction of our customers as the final goal.
+    &#10; It is also important to note that our services are strengthened by having a permanent stock of the main products of our commercialization.
+    &#10; We are proud to report that since December 19, 2006, LA PODEROSAs quality management system has been certified according to the IRAM-ISO 9001: 2000 standard and revalidated the same on December 28, 2009 according to IRAM 9001: 2008.
+  </string>
+
+  <string name="txtmision">
+    &#10; MISSION: To offer our clients quality products, at comfortable prices that meet their needs and demands, covering their tastes according to their style of seeing and living life.
+    &#10; VISION: To be a leading and recognized company in the sale of MeAnJe clothing, also to expand and create our warehouse chains, providing more and more an excellent service to our clients and at the same time allowing us to compete in the national market with the best prices on the market.
+  </string>
+</resources>

@@ -23,14 +23,25 @@ android:layout_width="match_parent"
 android:layout_height="wrap_content"
 android:id="@+id/scrollView1" >
 		
-
-			<TextView
-			android:text="Texto"
+		<LinearLayout
+			android:layout_height="match_parent"
+			android:layout_width="match_parent"
+			android:orientation="vertical">
+			<ImageView
+				android:src="@drawable/historia"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:id="@+id/imageView1" />
+<TextView
+			android:text="@string/txthistoria"
 			android:textAppearance="?android:attr/textAppearanceMedium"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
 			android:id="@+id/textView2"
+				android:paddingRight="50dp"
 			android:layout_marginLeft="50dp"/>
+			</LinearLayout>
+			
 
 			
 
