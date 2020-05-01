@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<TextView
+android:text="@string/btn1"
+android:textAppearance="?android:attr/textAppearanceLarge"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:minWidth="25px"
+android:background="@android:color/holo_red_light"
+android:minHeight="25px"
+android:paddingLeft="30dp"
+android:textSize="30dp"
+android:textColor="@android:color/white"
+android:id="@+id/textView1" />
+
+<ScrollView
+android:minWidth="25px"
+android:minHeight="25px"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:id="@+id/scrollView1" >
+		<TextView
+			android:text="Texto"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/textView2"
+			android:layout_marginLeft="50dp"/>
+
+</ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+	android:background="@color/colorWhite"
+	android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<ImageView
+		android:src="@drawable/logo"
+		android:layout_centerHorizontal="true"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/imageView1" />
+	<ScrollView
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:background="@android:color/holo_orange_dark"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/imageView1"
+		android:id="@+id/scrollView1" >
+		<LinearLayout
+			android:orientation="vertical"
+			android:minWidth="25px"
+			android:minHeight="25px"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:id="@+id/linearLayout1">
+			<Button
+				style="@style/BtnMenuBlue"
+				android:text="@string/btn1"
+				
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:id="@+id/button1" />
+			<Button
+				style="@style/BtnMenuOrange"
+				android:text="@string/btn2"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:id="@+id/button2" />
+			<Button
+				style="@style/BtnMenuGreen"
+				android:text="@string/btn3"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:id="@+id/button3" />
+			<Button
+				style="@style/BtnMenuBlue"
+				android:text="@string/btn4"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:id="@+id/button4" />
+			<Button
+				style="@style/BtnMenuOrange"
+				android:text="@string/btn5"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:id="@+id/button5" />
+			<Button
+				style="@style/BtnMenuGreen"
+				android:text="@string/btn6"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:id="@+id/button6" />
+			<Button
+				style="@style/BtnMenuBlue"
+				android:text="@string/btn7"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:id="@+id/button7" />
+			</LinearLayout>
+	</ScrollView>
+
+	
+
+</RelativeLayout>

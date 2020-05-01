@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LaPoderosaApp2020</string>
+    <string name="action_settings">Settings</string>
+
+<!--Menu-->
+  <string name="btn1">🏠 | &#10; INICIO</string>
+  <string name="btn2"> 📜 | &#10; Historia</string>
+  <string name="btn3">❤ | &#10; Mision &amp; Vision</string>
+  <string name="btn4"> 📌 | &#10; Sucursales</string>
+  <string name="btn5">🔖 | &#10; Categorias</string>
+  <string name="btn6">⭐ | &#10; Marcas</string>
+  <string name="btn7">📖 | &#10; Recetas</string>
+  
+  <!---->
+
+  
+</resources>
