@@ -56,9 +56,13 @@
     <Reference Include="Mono.Android" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActivityDetalleSucursal.cs" />
     <Compile Include="ActivityHistoria.cs" />
     <Compile Include="ActivityInicio.cs" />
     <Compile Include="ActivityMision.cs" />
+    <Compile Include="ActivitySucursales.cs" />
+    <Compile Include="AdapterSucursal.cs" />
+    <Compile Include="Global.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -165,6 +169,11 @@
   <ItemGroup>
     <AndroidResource Include="Resources\values-en\styles.xml">
       <Generator>MSBuild:UpdateGeneratedFiles</Generator>
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\detallesucursal.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
