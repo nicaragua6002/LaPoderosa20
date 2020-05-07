@@ -11,7 +11,7 @@ namespace LaPoderosaApp2020
     public class MainActivity : AppCompatActivity
     {
         //Declaramos las variables que van a manipular a los controles
-        Button btninicio, btnhistoria, btnmision,btnsucursales;
+        Button btninicio, btnhistoria, btnmision,btnsucursales,btnproductos;
        
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -23,16 +23,25 @@ namespace LaPoderosaApp2020
             btnhistoria = FindViewById<Button>(Resource.Id.button2);
             btnmision = FindViewById<Button>(Resource.Id.button3);
             btnsucursales = FindViewById<Button>(Resource.Id.button4);
+            btnproductos = FindViewById<Button>(Resource.Id.button5);
             //Establecer el evento
             btninicio.Click += Btninicio_Click;
             btnhistoria.Click += Btnhistoria_Click;
             btnmision.Click += Btnmision_Click;
             btnsucursales.Click += Btnsucursales_Click;
+            btnproductos.Click += Btnproductos_Click;
 
 
 
 
 
+        }
+
+        private void Btnproductos_Click(object sender, System.EventArgs e)
+        {
+            //Programar el llamado de la siguiente actividad
+            Intent i = new Intent(this, typeof(ActivityListaCategorias));
+            StartActivity(i);
         }
 
         private void Btnsucursales_Click(object sender, System.EventArgs e)

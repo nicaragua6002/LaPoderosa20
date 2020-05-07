@@ -56,11 +56,16 @@
     <Reference Include="Mono.Android" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActivityDetalleCategoria.cs" />
+    <Compile Include="ActivityDetalleProducto.cs" />
     <Compile Include="ActivityDetalleSucursal.cs" />
     <Compile Include="ActivityHistoria.cs" />
     <Compile Include="ActivityInicio.cs" />
+    <Compile Include="ActivityListaCategorias.cs" />
     <Compile Include="ActivityMision.cs" />
     <Compile Include="ActivitySucursales.cs" />
+    <Compile Include="AdapterCategorias.cs" />
+    <Compile Include="AdapterProductos.cs" />
     <Compile Include="AdapterSucursal.cs" />
     <Compile Include="Global.cs" />
     <Compile Include="MainActivity.cs" />
@@ -174,6 +179,26 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\detallesucursal.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\ListaCategorias.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\DetalleCategoria.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\ItemProducto.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\DetalleProducto.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
